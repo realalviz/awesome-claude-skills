@@ -166,6 +166,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [Swiss Legal Review](https://github.com/realalviz/swiss-legal-review) - Checks a Swiss small business (website, prices, privacy policy, e-mail outreach, terms, staff, VAT) against current federal law with prosecutor, defence and judge sub-agents and Fedlex sources.
 
 ### Communication & Writing
 
